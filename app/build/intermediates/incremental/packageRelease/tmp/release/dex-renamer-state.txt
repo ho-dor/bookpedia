@@ -1,0 +1,4 @@
+#Sun Jul 28 12:42:14 IST 2019
+base.0=C\:\\Users\\hp\\Documents\\android-vision-master\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex
